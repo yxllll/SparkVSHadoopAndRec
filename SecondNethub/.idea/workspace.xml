@@ -1,0 +1,1739 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f1a80780-ebed-421f-9440-4747c25d11b6" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/Tests/wordCount.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/StreamQuery/src/QueryPac/test.scala" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/TestOutMain$$anonfun$main$1$$anonfun$apply$1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/StreamQuery/src/Tests/wordCount.scala" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/mapred/RandomInputFormat.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajectoryStore/src/edu/ecnu/idse/TrajStore/core/SpatialTemporalSite.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/edu/ecnu/idse/TrajStore/mapred/SpatialTemporalRecordReader.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/self/NightAnalysisMapper.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajectoryStore/src/FuncTool/HBaseRDDRead.scala" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/TestOutMain$HBaseConfiguration.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/edu/ecnu/idse/TrajStore/core/ShapeRecordWriter.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/mapred/ShapeIterInputFormat.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/Tests/Test2$$anonfun$main$1$$typecreator1$1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/util/OperationsParams$Direction.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/edu/ecnu/idse/TrajStore/core/Partition.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/edu/ecnu/idse/TrajStore/operations/Indexer.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/QuerySlideWindow$QueryReceiver.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/core/SpatialTemporalSite$1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/Tests/Test2$TaxiMeesage.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/operations/Repartition$RepartitionReduce.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/edu/ecnu/idse/TrajStore/core/Point.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/self/travelDailyStaticReducer.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/self/RegexPathFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/edu/ecnu/idse/TrajStore/core/CellInfo.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/QuerySlideWindow$$anonfun$windowDataQuery$1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/edu/ecnu/idse/TrajStore/Test/ZcurveTest.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/self/DayAnalysisReducer.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/queryByMBR$$anonfun$getMaxSpeedAndCar$1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/core/ResultCollector.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/self/demographicStatisticsMapper.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/core/CubicInfo.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/edu/ecnu/idse/TrajStore/core/Partitioner.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/edu/ecnu/idse/TrajStore/core/CubicRecordWriter.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/edu/ecnu/idse/TrajStore/Test/TestTool.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/mapred/SpatialTemporalRecordReader$ShapeIterator.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/edu/ecnu/idse/TrajStore/core/ResultCollector.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/StreamQuery/src/QueryPac/Test222.scala" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajectoryStore/src/FuncTool/testTools.scala" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/GetDataToStream$.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/core/SpaceInfo.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/SparkStreamingToHBase$$anonfun$1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajectoryStore/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/core/QuadTreePartitioner.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/core/QuadtreeTest.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/test$TaxiMeesage$.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/Tests/wordCount$$anonfun$main$4.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/core/KdTreePartitioner$2.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/core/KdTreePartitioner$1SplitTask.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/operations/Repartition$RepartitionMapNoReplication.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/core/CellInfo.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/self/travelDailyStaticMapper.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/QuerySlideWindow$$anonfun$2.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/edu/ecnu/idse/TrajStore/core/ZCurvePartitioner.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/StreamQuery/src/QueryPac/SparkStreamingToHBase.scala" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/SparkStreamingToHBase$$anonfun$main$1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/self/test.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/TestOnly$$anonfun$1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/GetDataToStream$$anon$1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/core/ResultCollector2.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/operations/Repartition$RepartitionOutputCommitter.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/Tests/Test2$$anonfun$main$1$$anonfun$2.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/TestOutMain$TaxiMeesage$.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/queryTrajDataFormat.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/TestOnly$$anonfun$main$1$$anonfun$apply$1$$anonfun$apply$mcVI$sp$2.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/mc/DistrictDistance.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/self/RegexPathFilter.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/mapred/SpatialTemporalRecordReader$BlockType.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/mapred/ShapeLineInputFormat.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/self/myFindReducer.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/core/CubicRecordWriter$1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajectoryStore/TrajectoryStore.iml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/self/package-info.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/TrajDataManage.iml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/Test222$$anonfun$main$1$$anonfun$apply$1$$anonfun$apply$mcVI$sp$2.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/util/OperationsParams.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/Test222$.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/operations/Sampler$2.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/self/Location2D.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/self/myFinder.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/self/myFindReducer.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/Tests/wordCount$$anonfun$main$2.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/core/GetPointsToFile.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/mapred/RandomShapeGenerator$DistributionType.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/operations/Sampler$3.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/SparkStreamingToHBase$$anonfun$main$1$$anonfun$3.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/edu/ecnu/idse/TrajStore/io/Text2.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/test$$anonfun$main$1$$anonfun$apply$1$$anonfun$apply$mcVI$sp$1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/self/NightAnalysisReducer.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/queryByMBR.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/edu/ecnu/idse/TrajStore/Test/DataFormatCheck.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajectoryStore/.idea/artifacts/HbaseTest_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajectoryStore/.idea/libraries/scala_sdk_2_10_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/operations/Main.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajectoryStore/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/mapred/IndexOutputFormat$IndexRecordWriter.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/QuerySlideWindow$$anonfun$windowDataQuery$2.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/edu/ecnu/idse/TrajStore/operations/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/TimeAndSpaceMining/FindKNearPerson.scala" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/BuildIndex/QuadTreeNode.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajectoryStore/src/edu/ecnu/idse/TrajStore/util/SparkStreamingToHBase.scala" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/Test/IterativelyQuery.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/mapred/IndexOutputFormat.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/edu/ecnu/idse/TrajStore/core/GridPartitioner.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/self/myFindMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/QuerySlideWindow$$anonfun$main$1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/Test222$HBaseConfiguration.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajectoryStore/src/edu/ecnu/idse/TrajStore/core/Shape.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/Tests/wordCount$.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/self/Point.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/test$HBaseConfiguration.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/mc/ReadDistance.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/Tests/Test2$$anonfun$main$2.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/core/SpatialTemporalSite.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/self/gridState.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajectoryStore/.idea/libraries/java.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/edu/ecnu/idse/TrajStore/util/FileUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/io/TextSerializerHelper.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/operations/Sampler$Map.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/edu/ecnu/idse/TrajStore/core/QuadTreePartitioner.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/TestOutMain$$anonfun$main$1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/Test222.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/core/RTree$1SplitStruct$3.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajectoryStore/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/edu/ecnu/idse/TrajStore/mapred/CubicOutputFormat.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/Tests/Test2$$anonfun$main$1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/operations/Indexer$IndexerOutputCommitter.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/edu/ecnu/idse/TrajStore/io/TextSerializerHelper.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/operations/Sampler$7.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/Test/RandomSpatialTemporalGenerator.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/edu/ecnu/idse/TrajStore/core/Cubic.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/Tests/Test2$$anonfun$1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/Tests/Test2$HBaseConfiguration.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/BuildIndex/Test.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/self/test.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/TestOnly.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/mc/DistrictDistance.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/mapred/ShapeIterRecordReader.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/TestOnly$$anonfun$main$1$$anonfun$apply$1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/core/RTree.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/self/myFinder.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/edu/ecnu/idse/TrajStore/core/KdTreePartitioner.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/SparkStreamingToHBase$HBaseConfiguration.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/TestOnly$HBaseConfiguration.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/Tests/Test2$$anonfun$main$1$$anonfun$apply$1$$anonfun$apply$mcVI$sp$1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/self/myFindMapper.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/test$.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/core/GridPartitioner.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/operations/Repartition$RepartitionOutputCommitter$1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/BuildIndex/QuadTreeIndex.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/edu/ecnu/idse/TrajStore/mapred/ShapeLineRecordReader.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/TestOnly$TaxiMeesage$.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/self/NightAnalysisMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/operations/Sampler$Reduce.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/mapred/ShapeRecordReader.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/edu/ecnu/idse/TrajStore/mapred/RandomShapeGenerator.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/.project" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/Tests/wordCount$$anonfun$main$1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/SparkStreamingToHBase$.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajectoryStore/src/edu/ecnu/idse/TrajStore/core/Cubic.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/test$TaxiMeesage.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/core/GlobalIndex$SimpleIterator.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/self/demographicStatisticsReducer.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/self/RecordString.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/QuerySlideWindow$$anonfun$1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/queryByMBR$$anonfun$getHighSpeedCars$1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/self/Point.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/QuerySlideWindow.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/test$$anonfun$main$1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/TestOutMain$TaxiMeesage.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/core/KdTreePartitioner$1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/mc/WeixinFilter.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/operations/Sampler$5.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/edu/ecnu/idse/TrajStore/core/CubicInfo.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/Tests/Test2$$anonfun$main$2$$anonfun$apply$2.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/test$$anonfun$main$1$$anonfun$apply$1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/QuerySlideWindow$.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/mc/ReadDistance.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/edu/ecnu/idse/TrajStore/Test/RandomSpatialTemporalGenerator.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/Test222$TaxiMeesage$.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajectoryStore/.idea/libraries/spark_assembly_1_5_2_hadoop2_6_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/Test/ZcurveTest.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajectoryStore/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajectoryStore/out/production/TrajectoryStore/META-INF/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/edu/ecnu/idse/TrajStore/operations/Repartition.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/edu/ecnu/idse/TrajStore/core/GetGrids.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/edu/ecnu/idse/TrajStore/core/SpaceInfo.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/StreamQuery/src/QueryPac/temp.scala" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajectoryStore/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/edu/ecnu/idse/TrajStore/Test/IterativelyQuery.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/mapred/RandomShapeGenerator.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/core/GridInfo.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajectoryStore/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/mapred/BlockFilter.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/StreamQuery/src/QueryPac/queryTrajDataFormat.scala" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/mc/Weixin.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/Tests/Test2.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/mc/Statics.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/operations/Indexer$IndexerOutputCommitter$1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/QuerySlideWindow$$anonfun$3.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/edu/ecnu/idse/TrajStore/Test/SamplerTest.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/operations/Sampler$6.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/StreamQuery/src/QueryPac/GetDataToStream.scala" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/core/ZCurvePartitioner.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/BuildIndex/QuadTreeNode.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/edu/ecnu/idse/TrajStore/core/ResultCollector2.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/Test/DataFormatCheck.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/edu/ecnu/idse/TrajStore/mapred/CubicRecordWriter.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajectoryStore/spatialIndexCells" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/edu/ecnu/idse/TrajStore/core/Rectangle.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/self/travelDailyStaticMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/SparkStreamingToHBase$$anonfun$main$1$$anonfun$apply$1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/edu/ecnu/idse/TrajStore/core/RTree.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/edu/ecnu/idse/TrajStore/io/TextSerializable.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/edu/ecnu/idse/TrajStore/core/GetPointsToFile.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/SparkStreamingToHBase$$anonfun$main$2$$anonfun$apply$2.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/edu/ecnu/idse/TrajStore/core/QuadtreeTest.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/self/liveWorkPair.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/test.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajectoryStore/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/self/demographicStatisticsReducer.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajectoryStore/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/edu/ecnu/idse/TrajStore/mapred/ShapeInputFormat.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/core/RTree$1SplitStruct$6.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/StreamQuery/src/QueryPac/queryByMBR.scala" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/StreamQuery/StreamQuery.iml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/StreamQuery/src/QueryPac/TestOutMain.scala" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajectoryStore/src/FuncTool/HBaseTest.scala" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/core/Points.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/self/demographicStatisticsMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/core/RTree$1SplitStruct$2.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/BuildIndex/AllTreeIndex.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/test$$anonfun$1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/operations/Indexer$IndexMethods.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/core/RTree$1SplitStruct$5.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/operations/Sampler$Map$Conversion.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/edu/ecnu/idse/TrajStore/util/OperationsParams.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/operations/Repartition.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/GetDataToStream.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/Test/RandomSpatialTemporalGenerator$1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/queryByMBR$$anonfun$getAllCarsAverageSpeed$1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajectoryStore/src/edu/ecnu/idse/TrajStore/util/IndexType.scala" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/jts-1.13.jar" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/mapred/SpatialTemporalInputFormat$1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/core/GetRandomPoints.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/edu/ecnu/idse/TrajStore/mapred/RandomInputFormat.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/core/ShapeRecordWriter.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/core/Shape.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/self/regionState.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/operations/Indexer$1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/edu/ecnu/idse/TrajStore/core/GetRandomPoints.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/core/RTree$1SplitStruct.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/core/RTree$1SplitStruct$4.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/self/Location2D.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/.idea/libraries/scala_sdk_2_10_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/mapred/SpatialTemporalInputFormat.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/core/GlobalIndex.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajectoryStore/src/edu/ecnu/idse/TrajStore/util/SpatialUtilFuncs.scala" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/self/NightAnalysisReducer.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajectoryStore/src/FuncTool/ReadIndex.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajectoryStore/src/META-INF/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajectoryStore/src/edu/ecnu/idse/TrajStore/io/TextSerializable.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/TestOnly$$anonfun$main$1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/operations/Repartition$RepartitionMap.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/self/liveWorkPair.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/core/CubicRecordWriter.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/README.md" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/util/FileUtil.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/self/myFinder$2.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/TestOutMain$.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajectoryStore/.spatialIndexCells.crc" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/edu/ecnu/idse/TrajStore/operations/Sampler.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/StreamQuery/src/QueryPac/TestOnly.scala" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/SparkStreamingToHBase$TaxiMeesage.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/TestOnly$.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/Test222$TaxiMeesage.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/self/package-info.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/core/Partition.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/mapred/CubicRecordWriter.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/self/gridState.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/self/DayAnalysisMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/core/Cubic.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/core/Point.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/Test222$$anonfun$main$1$$anonfun$apply$1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/self/travelDailyStaticReducer.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/edu/ecnu/idse/TrajStore/mapred/SpatialTemporalInputFormat.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/mapred/SpatialTemporalRecordReader.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/Tests/wordCount$$anonfun$main$3.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/edu/ecnu/idse/TrajStore/core/GridInfo.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/Test222$$anonfun$1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/operations/Sampler.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/社交网络挖掘.docx" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/Test222$$anonfun$main$1$$anonfun$apply$1$$anonfun$apply$mcVI$sp$1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/BuildIndex/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/Test222$$anonfun$main$1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/SparkStreamingToHBase.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/SparkStreamingToHBase$$anonfun$main$2.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/edu/ecnu/idse/TrajStore/io/MemoryInputStream.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/.idea/libraries/datanucleus_api_jdo_3_2_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/StreamQuery/src/Tests/Test2.scala" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/SparkStreamingToHBase$TaxiMeesage$.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/Tests/Test2$.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/core/Partitioner.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajectoryStore/src/edu/ecnu/idse/TrajStore/util/SocketClient.scala" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/mapred/IndexOutputFormat$IndexRecordWriter$1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/edu/ecnu/idse/TrajStore/mapred/ShapeIterInputFormat.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/Test/TestTool.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/operations/Sampler$4.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/self/RecordString.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/edu/ecnu/idse/TrajStore/core/Shape.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/Tests/Test2$$anonfun$main$1$$anonfun$apply$1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/mapred/CubicOutputFormat.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/Test/SamplerTest.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/edu/ecnu/idse/TrajStore/core/Points.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajectoryStore/src/edu/ecnu/idse/TrajStore/util/TypeConvert.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/TestOnly$TaxiMeesage.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajectoryStore/src/edu/ecnu/idse/TrajStore/core/CellInfo.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/Tests/Test2$TaxiMeesage$.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/operations/Sampler$1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/Test/SamplerTest$1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/operations/Indexer.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajectoryStore/src/edu/ecnu/idse/TrajStore/core/Rectangle.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/.idea/dictionaries/yang.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/operations/Indexer$IndexMethods$1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/core/KdTreePartitioner$1SplitToTest.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/core/RTree$1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/core/GetGrids.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/edu/ecnu/idse/TrajStore/core/SpatialTemporalSite.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/StreamQuery/src/QueryPac/QuerySlideWindow.scala" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/edu/ecnu/idse/TrajStore/mapred/IndexOutputFormat.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/io/TextSerializable.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/mapred/ShapeInputFormat.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/core/Rectangle.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/TestOnly$$anonfun$main$1$$anonfun$apply$1$$anonfun$apply$mcVI$sp$1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/GetDataToStream$$anon$1$$anonfun$run$2.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/TestOutMain$$anonfun$1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/self/DayAnalysisMapper.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajectoryStore/src/edu/ecnu/idse/TrajStore/io/TextSerializerHelper.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/core/KdTreePartitioner.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajectoryStore/src/edu/ecnu/idse/TrajStore/core/Point.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/core/QuadTreePartitioner$1QuadTreeNode.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/self/myFinder$1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/mapred/IndexOutputFormat$IndexRecordWriter$2.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/mapred/ShapeLineRecordReader.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/SparkStreamingToHBase$$anonfun$main$1$$typecreator1$1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/BuildIndex/AllTreeIndex.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/temp.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/mc/Weixin.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/io/Text2.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/queryByMBR$$anonfun$getMinSpeedAndCar$1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/mc/Statics.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/queryByMBR$$anonfun$getAllCarIDs$1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajectoryStore/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/edu/ecnu/idse/TrajStore/mapred/ShapeLineInputFormat.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/mc/WeixinFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/core/RTree$1SplitStruct$1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/io/MemoryInputStream.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/mapred/RandomInputFormat$GeneratedSplit.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/edu/ecnu/idse/TrajStore/mapred/ShapeIterRecordReader.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/BuildIndex/QuadTreeIndex.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/self/regionState.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/GetDataToStream$$anon$1$$anonfun$run$1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/core/RTree$RTreeIterator.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/.classpath" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/edu/ecnu/idse/TrajStore/core/GlobalIndex.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/TestOutMain.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/self/DayAnalysisReducer.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/edu/ecnu/idse/TrajStore/mapred/BlockFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/SparkStreamingToHBase$$anonfun$main$1$$anonfun$2.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/bin/edu/ecnu/idse/TrajStore/core/QuadtreeTest$1QuadTreeNode.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/TrajDataManage/out/production/StreamQuery/QueryPac/queryByMBR$$anonfun$getSingleSpeedByCarID$1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/gitrepos/SparkProject/BuildTrees/src/edu/ecnu/idse/TrajStore/mapred/ShapeRecordReader.java" />
+    </list>
+    <ignored path="SecondNethub.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="SecondNethub" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="TestGetId.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SocialRelationMining/TestGetId.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="14" column="56" selection-start-line="14" selection-start-column="56" selection-end-line="14" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GetIdByEdges.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/GraphXExperiment/GetIdByEdges.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MakeCommunityDiscovery.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SocialRelationMining/MakeCommunityDiscovery.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="25" column="41" selection-start-line="0" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GetOneTrajOnly.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TimeAndSpaceMining/GetOneTrajOnly.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="13" column="76" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="76" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="justTest.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/WorkForTest/justTest.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GetIdAndRange.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/WorkForTest/GetIdAndRange.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PageRank.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/GraphXExperiment/PageRank.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.45604396">
+              <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Edges.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SocialRelationMining/Edges.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="17" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SortResult.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/GraphXExperiment/SortResult.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TriangleCounting.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/GraphXExperiment/TriangleCounting.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="23" column="50" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Package Object" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/SocialRelationMining/Test.scala" />
+        <option value="$PROJECT_DIR$/src/SocialRelationMining/NetWorkEdge.scala" />
+        <option value="$PROJECT_DIR$/src/SocialRelationMining/GetSecondFriends.scala" />
+        <option value="$PROJECT_DIR$/src/TimeAndSpaceMining/GetDistance.scala" />
+        <option value="$PROJECT_DIR$/src/TimeAndSpaceMining/GetOneTrajOnly.scala" />
+        <option value="$PROJECT_DIR$/src/TimeAndSpaceMining/DataPreprocess.scala" />
+        <option value="$PROJECT_DIR$/src/SocialRelationMining/TestGetF.scala" />
+        <option value="$PROJECT_DIR$/src/TTest/Edges.scala" />
+        <option value="$PROJECT_DIR$/src/TTest/getSecondFriends.scala" />
+        <option value="$PROJECT_DIR$/src/TTest/getFriendsAndEdge.scala" />
+        <option value="$PROJECT_DIR$/src/TTest/getNodeData.scala" />
+        <option value="$PROJECT_DIR$/src/TTest/getAllConnection.scala" />
+        <option value="$PROJECT_DIR$/src/TimeSpaceBasedRecommendation/FindKNearPerson.scala" />
+        <option value="$PROJECT_DIR$/src/TimeAndSpaceMining/TrajPoint.scala" />
+        <option value="$PROJECT_DIR$/src/TTest/justTest.scala" />
+        <option value="$PROJECT_DIR$/src/SocialRelationMining/FriendsTable.scala" />
+        <option value="$PROJECT_DIR$/src/TimeSpaceBasedRecommendation/FindSecByDistance.scala" />
+        <option value="$PROJECT_DIR$/src/SocialRelationMining/TestGetFriends.scala" />
+        <option value="$PROJECT_DIR$/src/TimeSpaceBasedRecommendation/FindSecByRange.scala" />
+        <option value="$PROJECT_DIR$/src/SocialRelationMining/getAllConnection.scala" />
+        <option value="$PROJECT_DIR$/src/SocialRelationMining/Edges.scala" />
+        <option value="$PROJECT_DIR$/src/WorkForTest/FindSecByDistance.scala" />
+        <option value="$PROJECT_DIR$/src/WorkForTest/FindSecByDisAndRange.scala" />
+        <option value="$PROJECT_DIR$/src/WorkForTest/GetIdAndRange.scala" />
+        <option value="$PROJECT_DIR$/src/SocialRelationMining/GetAllConnection.scala" />
+        <option value="$PROJECT_DIR$/src/TimeSpaceBasedRecommendation/FindSecByDisAndRange.scala" />
+        <option value="$PROJECT_DIR$/src/GraphXExperiment/SortResult.scala" />
+        <option value="$PROJECT_DIR$/src/SocialRelationMining/MakeCommunityDiscovery.scala" />
+        <option value="$PROJECT_DIR$/src/GraphXExperiment/GetIdByEdges.scala" />
+        <option value="$PROJECT_DIR$/src/SocialRelationMining/TestGetId.scala" />
+        <option value="$PROJECT_DIR$/src/GraphXExperiment/TriangleCounting.scala" />
+        <option value="$PROJECT_DIR$/src/GraphXExperiment/PageRank.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="306" />
+    <option name="y" value="239" />
+    <option name="width" value="1481" />
+    <option name="height" value="884" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SecondNethub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SecondNethub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SecondNethub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SecondNethub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SecondNethub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/WorkForTest" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="SocialRelationMining" />
+      <recent name="TimeSpaceBasedRecommendation" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.PageRank">
+    <configuration default="false" name="justTest" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="WorkForTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="WorkForTest.justTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SecondNethub" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="FindSecByDistance (1)" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="WorkForTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="WorkForTest.FindSecByDistance" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SecondNethub" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="PageRank" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="TestPackage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="TestPackage.PageRank" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SecondNethub" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestGetId" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="SocialRelationMining.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="SocialRelationMining.TestGetId" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SecondNethub" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="TriangleCounting" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="GraphXExperiment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="GraphXExperiment.TriangleCounting" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SecondNethub" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/usr/bin/flashplayerdebugger" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/usr/bin/flashplayerdebugger" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="scalaCoverage" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="scalaCoverage" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="scalaCoverage" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="FindSecByRange (1)" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="WorkForTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="WorkForTest.FindSecByRange" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SecondNethub" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="GetIdAndRange" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="WorkForTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="WorkForTest.GetIdAndRange" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SecondNethub" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="FindSecByDistance" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="TimeSpaceBasedRecommendation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="TimeSpaceBasedRecommendation.FindSecByDistance" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SecondNethub" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="FindSecByRange" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="TimeSpaceBasedRecommendation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="TimeSpaceBasedRecommendation.FindSecByRange" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SecondNethub" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="getNodeData" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="WorkForTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="WorkForTest.getAllConnection" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SecondNethub" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="10">
+      <item index="0" class="java.lang.String" itemvalue="Application.FindSecByRange (1)" />
+      <item index="1" class="java.lang.String" itemvalue="Application.GetIdAndRange" />
+      <item index="2" class="java.lang.String" itemvalue="Application.FindSecByDistance" />
+      <item index="3" class="java.lang.String" itemvalue="Application.FindSecByRange" />
+      <item index="4" class="java.lang.String" itemvalue="Application.getNodeData" />
+      <item index="5" class="java.lang.String" itemvalue="Application.justTest" />
+      <item index="6" class="java.lang.String" itemvalue="Application.FindSecByDistance (1)" />
+      <item index="7" class="java.lang.String" itemvalue="Application.PageRank" />
+      <item index="8" class="java.lang.String" itemvalue="Application.TestGetId" />
+      <item index="9" class="java.lang.String" itemvalue="Application.TriangleCounting" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.PageRank" />
+        <item index="1" class="java.lang.String" itemvalue="Application.TestGetId" />
+        <item index="2" class="java.lang.String" itemvalue="Application.TriangleCounting" />
+        <item index="3" class="java.lang.String" itemvalue="Application.FindSecByDistance (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Application.justTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1a80780-ebed-421f-9440-4747c25d11b6" name="Default" comment="" />
+      <created>1451447899870</created>
+      <option name="number" value="Default" />
+      <updated>1451447899870</updated>
+      <workItem from="1451447903979" duration="3537000" />
+      <workItem from="1451462161468" duration="21101000" />
+      <workItem from="1451876580398" duration="31744000" />
+      <workItem from="1451977441808" duration="15859000" />
+      <workItem from="1451999743680" duration="7430000" />
+      <workItem from="1452166218976" duration="4100000" />
+      <workItem from="1452176433375" duration="1315000" />
+      <workItem from="1452235519276" duration="4438000" />
+      <workItem from="1452420950624" duration="8031000" />
+      <workItem from="1452840700401" duration="161000" />
+      <workItem from="1453080558898" duration="26000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="97742000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="306" y="239" width="1481" height="884" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1630094" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32985157" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1609756" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.12592593" sideWeight="0.49807587" order="2" side_tool="false" content_ui="tabs" x="81" y="430" width="1817" height="535" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3362944" sideWeight="0.48763058" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.7931472" sideWeight="0.50192416" order="12" side_tool="false" content_ui="tabs" x="-102" y="418" width="1562" height="807" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/SocialRelationMining/Edges.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WorkForTest/getFriendsAndEdge.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WorkForTest/justTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TimeSpaceBasedRecommendation/FindSecByDisAndRange.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WorkForTest/FindSecByDistance.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="83" column="7" selection-start-line="83" selection-start-column="7" selection-end-line="83" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SocialRelationMining/TestGetId.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SocialRelationMining/FriendsTable.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="63" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SocialRelationMining/TestGetFriends.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="52" column="7" selection-start-line="52" selection-start-column="7" selection-end-line="52" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WorkForTest/getAllConnection.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SocialRelationMining/GetAllConnection.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="36" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SocialRelationMining/Edges.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WorkForTest/getFriendsAndEdge.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WorkForTest/getAllConnection.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="89" column="35" selection-start-line="89" selection-start-column="35" selection-end-line="89" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WorkForTest/Edges.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SocialRelationMining/TestGetId.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SocialRelationMining/TestGetFriends.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="38" column="30" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SocialRelationMining/FriendsTable.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SocialRelationMining/FriendsTable.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/scala-2.10.6/src/scala-library-src.jar!/scala/collection/mutable/ArrayBuffer.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3034826">
+          <caret line="39" column="38" selection-start-line="39" selection-start-column="38" selection-end-line="39" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/scala-2.10.6/src/scala-library-src.jar!/scala/text/Document.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.1940298">
+          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/local/java/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33271718">
+          <caret line="263" column="0" selection-start-line="261" selection-start-column="46" selection-end-line="264" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/local/java/jre/lib/rt.jar!/sun/misc/Launcher.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33271718">
+          <caret line="257" column="0" selection-start-line="257" selection-start-column="0" selection-end-line="257" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/local/java/src.zip!/java/net/URLClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33271718">
+          <caret line="380" column="0" selection-start-line="380" selection-start-column="0" selection-end-line="380" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SecondNethub.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/scala-2.10.6/src/scala-library-src.jar!/scala/package.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="87" column="7" selection-start-line="87" selection-start-column="7" selection-end-line="87" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/scala-2.10.6/src/scala-library-src.jar!/scala/collection/immutable/StringLike.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="228" column="6" selection-start-line="228" selection-start-column="6" selection-end-line="228" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TimeAndSpaceMining/TrajPoint.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29932886">
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TimeSpaceBasedRecommendation/FindKNearPerson.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14496644">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WorkForTest/Edges.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.41073826">
+          <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TimeAndSpaceMining/DataPreprocess.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="56" selection-start-line="22" selection-start-column="56" selection-end-line="22" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WorkForTest/getAllConnection.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WorkForTest/FindSecByDistance.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="84" column="0" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WorkForTest/FindSecByDisAndRange.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="75" column="11" selection-start-line="75" selection-start-column="11" selection-end-line="75" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WorkForTest/getFriendsAndEdge.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SocialRelationMining/TestGetFriends.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="52" column="7" selection-start-line="52" selection-start-column="7" selection-end-line="52" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SocialRelationMining/FriendsTable.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SocialRelationMining/GetAllConnection.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TimeSpaceBasedRecommendation/FindSecByDisAndRange.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="51" column="32" selection-start-line="51" selection-start-column="32" selection-end-line="51" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/local/java/src.zip!/java/lang/StrictMath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18997361">
+          <caret line="155" column="33" selection-start-line="155" selection-start-column="33" selection-end-line="155" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/local/java/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35620052">
+          <caret line="204" column="28" selection-start-line="204" selection-start-column="28" selection-end-line="204" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TimeAndSpaceMining/GetDistance.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TimeAndSpaceMining/GetOneTrajOnly.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="76" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WorkForTest/justTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WorkForTest/GetIdAndRange.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GraphXExperiment/SortResult.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SocialRelationMining/MakeCommunityDiscovery.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="41" selection-start-line="0" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SocialRelationMining/Edges.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="17" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GraphXExperiment/GetIdByEdges.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SocialRelationMining/TestGetId.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="56" selection-start-line="14" selection-start-column="56" selection-end-line="14" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GraphXExperiment/TriangleCounting.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="50" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GraphXExperiment/PageRank.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45604396">
+          <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.10.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>SecondNethub</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>spark-1.5.2-yarn-shuffle</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
